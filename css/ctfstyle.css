@@ -1,0 +1,19 @@
+.border-container{
+    border:1px solid red;
+}
+
+.head-block,.left-tasks,.top-brief{
+    margin-bottom:0px;
+}
+
+.head-block{
+    height:auto;
+}
+
+.left-tasks{
+    height:auto;
+}
+
+.top-brief{
+    height:auto;
+}
